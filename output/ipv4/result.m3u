@@ -1,0 +1,5 @@
+#EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/wozaiguomalu11/iptv-api/refs/heads/master/output/epg/epg.gz"
+#EXTINF:-1 tvg-name="CCTV-1" tvg-logo="http://10.1.0.109:5180/logo/CCTV-1.png" group-title="🕘️更新时间",2026-02-25 10:11:54
+http://69.30.246.194/live/cctv16.m3u8$订阅源
+#EXTINF:-1 tvg-name="CCTV-16" tvg-logo="http://10.1.0.109:5180/logo/CCTV-16.png" group-title="📺央视频道",CCTV-16
+http://69.30.246.194/live/cctv16.m3u8$订阅源
